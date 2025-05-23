@@ -1,4 +1,8 @@
 prvni sooubor
-prvni radek
+prvni radek libovolna zmena
 druhy radek
 treti radek
+function install 
+{
+    lorem ipsum
+}
