@@ -1,6 +1,6 @@
 prvni sooubor
 prvni radek libovolna zmena
-druhy radek
+druhy radek zmena druheho radku v ramci vetve libovolne2
 treti radek
 function install 
 {
