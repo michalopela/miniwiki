@@ -1,4 +1,4 @@
 prvni sooubor
 prvni radek
 druhy radek
-treti radek
+treti radek  libovolna zmena posledniho radku
